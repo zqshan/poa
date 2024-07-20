@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "poa"
+  site-url: "https://zqshan.github.io/poa"
+  description: "port opt and ana"
+  repo-branch: main
+  repo-url: "https://github.com/zqshan/poa"
